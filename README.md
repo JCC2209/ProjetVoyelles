@@ -91,4 +91,4 @@ Cliquez sur "LANCER LE TEST" et répondez jusqu'à la fin.
 
 🎉 L'expérience officielle est terminée, merci pour votre participation !
 
-P.S. : Si la psychoacoustique vous amuse, l'application est à vous ! Sentez-vous totalement libres de tester d'autres paires de discrimination (ex: i-o, u-ou) ou de refaire des identifications pour voir si vos propres seuils évoluent avec l'entraînement. Toutes les données supplémentaires sont les bienvenues ! ;)
+P.S. : Si la psychoacoustique vous amuse, l'application est à vous ! Sentez-vous totalement libres de tester d'autres paires de discrimination (ex: i-o, u-ou) ou de refaire des identifications pour voir si vos propres seuils évoluent avec l'entraînement ou encore de refaire les tests mais avec un bruit de 60 dB. Toutes les données supplémentaires sont les bienvenues ! ;)
